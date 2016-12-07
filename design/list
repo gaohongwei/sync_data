@@ -1,0 +1,10 @@
+######### Plan 1 #########
+On the source machine
+Read data from MessageQ, such as Redis
+Create RestAPI to post data
+
+On the Target
+Accept posted data
+Write to DB
+
+RestAPI, can be repalced with web socket
