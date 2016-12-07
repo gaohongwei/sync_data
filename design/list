@@ -4,7 +4,11 @@ Read data from MessageQ, such as Redis
 Create RestAPI to post data
 
 On the Target
-Accept posted data
+Accept RestAPI posted data
 Write to DB
 
-RestAPI, can be repalced with web socket
+RestAPI, can be repalced with 
+web socket
+kafka
+
+
