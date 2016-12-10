@@ -1,4 +1,11 @@
 ######### Plan 1 #########
+Noedjs socket server
+1.Take local change;
+  push to kafka as a producer
+2.Take data from kafka as a consumer
+  Save into DB
+
+######### Plan 2 #########
 On the source machine
 Read data from MessageQ, such as Redis
 Create RestAPI to post data
